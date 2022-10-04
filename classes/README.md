@@ -1,9 +1,9 @@
-### To build C++ files run `
+### To build C++ files:
 ```
 sh build.sh
 ```
 
-### To run
+### To run executable:
 ```
 cd build
 ./classes
